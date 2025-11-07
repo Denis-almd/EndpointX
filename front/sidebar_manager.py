@@ -5,11 +5,11 @@ import streamlit as st
 
 class Config:
     PH_TEXTE_AREA = """  Exemplo preenchimento:
-    client_id:prd-ext-cli-latam-351-tacweb
-    client_secret:1y4TDiUsh0fJSg8iSSiQjdE2pXjZ2lXNyK1f
+    client_id:prd-ext-cli-latam-75065-otr
+    client_secret:Khgjkghkujhgkuhgkgfkyfg
     grant_type:password
-    username:gontijo.integration.prd
-    password:PMuXPn4hWCYVs4t2UYeYzbvkFoUxsJsB
+    username:cliente.integration.prd
+    password:Pilhgljghklujhgkjghfvkhfghgf
 """
 
 class SidebarManager:
